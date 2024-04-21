@@ -1,0 +1,1 @@
+# Data-mining-mutual-task-2-Frequent-pattern-and-association-rule-mining
